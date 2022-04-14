@@ -29,3 +29,7 @@
 - AWS Management console
 - AWS CLI (Command Line Interface)
 - AWS Elastic Beanstalk, AWS CloudFormation
+- Public subnet and private subnet
+- Virtual private cloud (VPC)
+- Subnets and network access control lists
+- Security group for EC instance
