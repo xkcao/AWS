@@ -33,3 +33,4 @@
 - Virtual private cloud (VPC)
 - Subnets and network access control lists
 - Security group for EC instance
+- Amazon Route 53 is a DNS web service
