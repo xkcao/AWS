@@ -34,3 +34,10 @@
 - Subnets and network access control lists
 - Security group for EC instance
 - Amazon Route 53 is a DNS web service
+- Instance stores and Amazon Elastic Block Store (Amazon EBS)
+- Amazon Simple Storage Service (Amazon S3)
+- Amazon Elastic File System (Amazon EFS)
+- Amazon Relational Database Service (Amazon RDS)
+- Amazon Aurora
+- Amazon DynamoDB, non-relational DB
+- Amazon Redshift, data warehousing service
