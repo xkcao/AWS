@@ -50,3 +50,6 @@
 - Amazon CloudWatch
 - AWS CloudTrail
 - AWS Trusted Advisor
+- AWS Free Tier
+- AWS Budget
+- AWS Marketplace
