@@ -41,3 +41,12 @@
 - Amazon Aurora
 - Amazon DynamoDB, non-relational DB
 - Amazon Redshift, data warehousing service
+- AWS Shared Responsibility Model
+- User Permissions and Access, AWS Identity and Access Management (IAM)
+- AWS Organizations
+- AWS Artifact
+- AWS Shield
+- Amazon Inspector
+- Amazon CloudWatch
+- AWS CloudTrail
+- AWS Trusted Advisor
