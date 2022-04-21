@@ -53,3 +53,9 @@
 - AWS Free Tier
 - AWS Budget
 - AWS Marketplace
+- AWS Cloud Adoption Framework
+- Migration strategies
+- AWS Snow Family
+- Amazon Sagemaker
+- Amazon Augmented AI
+- Amazon Lex
