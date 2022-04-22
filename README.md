@@ -59,3 +59,4 @@
 - Amazon Sagemaker
 - Amazon Augmented AI
 - Amazon Lex
+- AWS Well-Architected Framework
