@@ -60,3 +60,5 @@
 - Amazon Augmented AI
 - Amazon Lex
 - AWS Well-Architected Framework
+
+### Getting Started with Cloud Acquisition
