@@ -62,3 +62,5 @@
 - AWS Well-Architected Framework
 
 ### Getting Started with Cloud Acquisition
+
+### AWS Well-Architected
