@@ -64,3 +64,5 @@
 ### Getting Started with Cloud Acquisition
 
 ### AWS Well-Architected
+
+### AWS Foundations: Securing Your AWS Cloud
